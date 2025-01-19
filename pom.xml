@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ma.assalielmehdi.hrbox</groupId>
-	<artifactId>eureka</artifactId>
+	<artifactId>eureka-server</artifactId>
 	<version>1.0.0</version>
-	<name>eureka</name>
+	<name>eureka-server</name>
 	<properties>
 		<java.version>23</java.version>
 		<spring-cloud.version>2024.0.0</spring-cloud.version>
